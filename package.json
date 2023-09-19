@@ -1,5 +1,5 @@
 {
-  "name": "jquery-bbq",
+  "name": "jquery-babbq",
   "version": "1.3.0",
   "description": "Ben Alman's jQuery BBQ: Back Button & Query Library",
   "main": "dist/jquery.ba-bbq.js",
