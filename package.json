@@ -1,0 +1,15 @@
+{
+  "name": "jquery-bbq",
+  "description": "Ben Alman's jQuery BBQ: Back Button & Query Library",
+  "main": "dist/jquery.ba-bbq.js",
+  "files": [
+    "LICENSE-MIT",
+    "LICENSE-GPL",
+    "README.md",
+    "dist/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reload-Lab/jquery-ba-bbq.git"
+  }
+}
