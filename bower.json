@@ -2,7 +2,6 @@
   "name": "Reload-Lab/jquery-bbq",
   "description": "Ben Alman's jQuery BBQ: Back Button & Query Library",
   "main": "dist/jquery.ba-bbq.js",
-  "homepage": "https://github.com/Reload-Lab/jquery-ba-bbq",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -12,6 +11,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Reload-Lab/jquery-ba-bbq.git"
+    "url": "git+https://github.com/Reload-Lab/jquery-bbq.git"
   }
 }
